@@ -1,0 +1,10 @@
+SPRINT RETROSPECTIVE
+
+O que funcionou bem:
+- As alterações nos arquivos foram feitas com facilidade usando os terminais do Git e PowerShell.
+
+O que não funcionou bem:
+- Criação e sincronização do repositório remoto.
+
+Sugestões de melhoria:
+- Fazer novamente até automatizar.
